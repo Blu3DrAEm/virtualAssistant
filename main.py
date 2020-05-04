@@ -133,9 +133,6 @@ while True:
             respond(voice_data)
 
 
-
-
-
     # To activate VirtualAssistant
     # Keyboard Bindings
     wn.listen()
