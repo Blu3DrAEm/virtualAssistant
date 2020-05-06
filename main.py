@@ -137,4 +137,3 @@ while True:
     # Keyboard Bindings
     wn.listen()
     wn.onkeypress(virtual_assistant, "space")
-    wn.onkeypress(virtual_assistant, "q")
