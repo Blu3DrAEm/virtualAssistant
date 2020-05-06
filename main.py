@@ -1,7 +1,8 @@
 # Python Virtual Assistant
 # Josh Anderson
 # 05/01/2020
-# pip install speechrecognition,  pip install pyaudio, pip install gtts, pip install playsound, pip install PyObjC
+# pip install speechRecognition,  pip install pyaudio, pip install gTTS, pip install playsound, pip install PyObjC
+# virtualassistant.gif by https://i.gifer.com/xA.gif
 
 # User guide:
 # Say "Search" to search the web
